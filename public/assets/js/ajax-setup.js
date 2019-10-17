@@ -1,4 +1,4 @@
-$ajaxSetup({
+$.ajaxSetup({
     headers: setHeaders()
 });
 
